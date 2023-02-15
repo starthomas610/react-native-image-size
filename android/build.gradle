@@ -102,4 +102,5 @@ dependencies {
         implementation project(":ReactAndroid")
     } else {
         implementation 'com.facebook.react:react-native:+'
-    }}
+    }
+}
