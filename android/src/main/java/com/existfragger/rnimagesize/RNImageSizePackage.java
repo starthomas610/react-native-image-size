@@ -29,7 +29,6 @@ public class RNImageSizePackage extends TurboReactPackage {
                             RNImageSizeModule.NAME,
                             false, // canOverrideExistingModule
                             false, // needsEagerInit
-                            false, // hasConstants
                             false, // isCxxModule
                             isTurboModule // isTurboModule
                     ));
